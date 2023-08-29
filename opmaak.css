@@ -1,14 +1,15 @@
 #Titel {
   color: white;
   text-align: center;
-  font-family: Helvetica
+  font-family: Helvetica;
+  font-size: xx-large;
 }
 
 #menu {
   color: white;
   text-align: center;
   font-family: Helvetica
-  
+  text-decoration: none;
 }
 
 body {
