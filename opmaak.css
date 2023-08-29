@@ -1,13 +1,21 @@
 #Titel {
-  color: green;
+  color: white;
   text-align: center;
   font-family: Helvetica
+}
+
+#menu {
+  color: white;
+  text-align: center;
+  font-family: Helvetica
+  
 }
 
 body {
   min-height: 100vh;
   display: flex;
     flex-direction: column;
+  background-color: black;
 }
 
 footer {
